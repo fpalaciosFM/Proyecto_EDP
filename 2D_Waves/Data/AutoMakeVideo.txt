@@ -1,0 +1,1 @@
+ffmpeg -i 2D_Waves.gif -preset veryslow -pix_fmt yuv420p 2D_Waves.mp4
